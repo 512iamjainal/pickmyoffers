@@ -1,0 +1,18 @@
+[09-Jan-2017 05:47:25 UTC] PHP Fatal error:  Call to a member function displayrecord() on a non-object in /home/suraj008/public_html/pickmyoffers/index.php on line 15
+[09-Jan-2017 05:48:21 UTC] PHP Fatal error:  Call to a member function displayrecord() on a non-object in /home/suraj008/public_html/pickmyoffers/index.php on line 15
+[12-Jan-2017 05:56:52 UTC] PHP Fatal error:  Call to undefined function CURDATE() in /home/suraj008/public_html/pickmyoffers/insertcoupon.php on line 49
+[12-Jan-2017 06:22:47 UTC] PHP Fatal error:  Call to undefined function CURDATE() in /home/suraj008/public_html/pickmyoffers/insertcoupon.php on line 47
+[12-Jan-2017 06:30:38 UTC] PHP Fatal error:  Call to undefined function DATETIME() in /home/suraj008/public_html/pickmyoffers/insertcoupon.php on line 47
+[12-Jan-2017 06:30:38 UTC] PHP Fatal error:  Call to undefined function DATETIME() in /home/suraj008/public_html/pickmyoffers/insertcoupon.php on line 47
+[12-Jan-2017 07:07:56 UTC] PHP Notice:  Trying to get property of non-object in /home/suraj008/public_html/pickmyoffers/connect.php on line 13
+[12-Jan-2017 07:07:56 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/suraj008/public_html/pickmyoffers/connect.php:13) in /home/suraj008/public_html/pickmyoffers/header.php on line 6
+[12-Jan-2017 07:07:56 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/suraj008/public_html/pickmyoffers/connect.php:13) in /home/suraj008/public_html/pickmyoffers/header.php on line 6
+[12-Jan-2017 07:07:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/suraj008/public_html/pickmyoffers/insertcoupon.php on line 28
+[12-Jan-2017 07:11:35 UTC] PHP Notice:  Trying to get property of non-object in /home/suraj008/public_html/pickmyoffers/connect.php on line 14
+[12-Jan-2017 07:11:35 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/suraj008/public_html/pickmyoffers/connect.php:11) in /home/suraj008/public_html/pickmyoffers/header.php on line 6
+[12-Jan-2017 07:11:35 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/suraj008/public_html/pickmyoffers/connect.php:11) in /home/suraj008/public_html/pickmyoffers/header.php on line 6
+[12-Jan-2017 07:12:04 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/suraj008/public_html/pickmyoffers/connect.php on line 14
+[12-Jan-2017 07:12:33 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/suraj008/public_html/pickmyoffers/connect.php:11) in /home/suraj008/public_html/pickmyoffers/header.php on line 6
+[12-Jan-2017 07:12:33 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/suraj008/public_html/pickmyoffers/connect.php:11) in /home/suraj008/public_html/pickmyoffers/header.php on line 6
+[12-Jan-2017 07:13:56 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/suraj008/public_html/pickmyoffers/connect.php:11) in /home/suraj008/public_html/pickmyoffers/header.php on line 6
+[12-Jan-2017 07:13:56 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/suraj008/public_html/pickmyoffers/connect.php:11) in /home/suraj008/public_html/pickmyoffers/header.php on line 6

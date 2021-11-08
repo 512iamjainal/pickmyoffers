@@ -1,0 +1,198 @@
+[16-Jan-2017 07:16:20 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/suraj008/public_html/pickmyoffers/company/user.php on line 16
+[16-Jan-2017 07:18:02 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/suraj008/public_html/pickmyoffers/company/user.php on line 19
+[16-Jan-2017 11:36:01 UTC] PHP Fatal error:  Call to a member function updaterecord() on a non-object in /home/suraj008/public_html/pickmyoffers/company/delete_user.php on line 5
+[16-Jan-2017 11:36:21 UTC] PHP Fatal error:  Call to a member function updaterecord() on a non-object in /home/suraj008/public_html/pickmyoffers/company/delete_user.php on line 5
+[16-Jan-2017 11:36:23 UTC] PHP Fatal error:  Call to a member function updaterecord() on a non-object in /home/suraj008/public_html/pickmyoffers/company/delete_user.php on line 5
+[16-Jan-2017 11:36:30 UTC] PHP Fatal error:  Call to a member function updaterecord() on a non-object in /home/suraj008/public_html/pickmyoffers/company/delete_user.php on line 5
+[16-Jan-2017 11:37:14 UTC] PHP Fatal error:  Call to a member function updaterecord() on a non-object in /home/suraj008/public_html/pickmyoffers/company/delete_user.php on line 5
+[16-Jan-2017 11:37:17 UTC] PHP Fatal error:  Call to a member function updaterecord() on a non-object in /home/suraj008/public_html/pickmyoffers/company/delete_user.php on line 5
+[16-Jan-2017 11:38:23 UTC] PHP Fatal error:  Call to a member function updaterecord() on a non-object in /home/suraj008/public_html/pickmyoffers/company/delete_user.php on line 5
+[16-Jan-2017 11:39:00 UTC] PHP Fatal error:  Call to a member function updaterecord() on a non-object in /home/suraj008/public_html/pickmyoffers/company/delete_user.php on line 5
+[16-Jan-2017 11:39:03 UTC] PHP Fatal error:  Call to a member function updaterecord() on a non-object in /home/suraj008/public_html/pickmyoffers/company/delete_user.php on line 5
+[16-Jan-2017 11:40:17 UTC] PHP Fatal error:  Call to a member function updaterecord() on a non-object in /home/suraj008/public_html/pickmyoffers/company/delete_user.php on line 5
+[16-Jan-2017 11:40:26 UTC] PHP Fatal error:  Call to a member function updaterecord() on a non-object in /home/suraj008/public_html/pickmyoffers/company/delete_user.php on line 5
+[16-Jan-2017 11:40:56 UTC] PHP Fatal error:  Call to a member function updaterecord() on a non-object in /home/suraj008/public_html/pickmyoffers/company/delete_user.php on line 5
+[16-Jan-2017 11:41:23 UTC] PHP Fatal error:  Call to a member function updaterecord() on a non-object in /home/suraj008/public_html/pickmyoffers/company/delete_user.php on line 5
+[16-Jan-2017 11:41:30 UTC] PHP Fatal error:  Call to a member function updaterecord() on a non-object in /home/suraj008/public_html/pickmyoffers/company/delete_user.php on line 5
+[16-Jan-2017 11:41:43 UTC] PHP Fatal error:  Call to a member function updaterecord() on a non-object in /home/suraj008/public_html/pickmyoffers/company/delete_user.php on line 5
+[16-Jan-2017 11:41:52 UTC] PHP Fatal error:  Call to a member function updaterecord() on a non-object in /home/suraj008/public_html/pickmyoffers/company/delete_user.php on line 5
+[16-Jan-2017 11:43:44 UTC] PHP Fatal error:  Call to a member function updaterecord() on a non-object in /home/suraj008/public_html/pickmyoffers/company/delete_user.php on line 5
+[16-Jan-2017 11:45:11 UTC] PHP Fatal error:  Call to a member function updaterecord() on a non-object in /home/suraj008/public_html/pickmyoffers/company/delete_user.php on line 5
+[16-Jan-2017 11:45:20 UTC] PHP Fatal error:  Call to a member function updaterecord() on a non-object in /home/suraj008/public_html/pickmyoffers/company/delete_user.php on line 5
+[16-Jan-2017 11:46:05 UTC] PHP Fatal error:  Call to a member function updaterecord() on a non-object in /home/suraj008/public_html/pickmyoffers/company/delete_user.php on line 5
+[16-Jan-2017 11:46:12 UTC] PHP Fatal error:  Call to a member function updaterecord() on a non-object in /home/suraj008/public_html/pickmyoffers/company/delete_user.php on line 5
+[17-Jan-2017 06:25:20 UTC] PHP Fatal error:  Using $this when not in object context in /home/suraj008/public_html/pickmyoffers/company/login.php on line 19
+[17-Jan-2017 06:56:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/suraj008/public_html/pickmyoffers/company/home.php on line 16
+[17-Jan-2017 06:59:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/suraj008/public_html/pickmyoffers/company/login.php on line 20
+[17-Jan-2017 07:09:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/suraj008/public_html/pickmyoffers/company/header.php:30) in /home/suraj008/public_html/pickmyoffers/company/login.php on line 31
+[17-Jan-2017 07:10:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/suraj008/public_html/pickmyoffers/company/header.php:30) in /home/suraj008/public_html/pickmyoffers/company/login.php on line 31
+[17-Jan-2017 07:13:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/suraj008/public_html/pickmyoffers/company/header.php:30) in /home/suraj008/public_html/pickmyoffers/company/login.php on line 31
+[17-Jan-2017 09:13:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/suraj008/public_html/pickmyoffers/company/login.php on line 23
+[17-Jan-2017 09:13:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/suraj008/public_html/pickmyoffers/company/header.php:30) in /home/suraj008/public_html/pickmyoffers/company/login.php on line 34
+[17-Jan-2017 09:14:15 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/suraj008/public_html/pickmyoffers/company/login.php on line 23
+[17-Jan-2017 09:14:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/suraj008/public_html/pickmyoffers/company/header.php:30) in /home/suraj008/public_html/pickmyoffers/company/login.php on line 34
+[17-Jan-2017 09:14:45 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/suraj008/public_html/pickmyoffers/company/login.php on line 23
+[17-Jan-2017 09:14:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/suraj008/public_html/pickmyoffers/company/header.php:30) in /home/suraj008/public_html/pickmyoffers/company/login.php on line 34
+[17-Jan-2017 09:14:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/suraj008/public_html/pickmyoffers/company/header.php:30) in /home/suraj008/public_html/pickmyoffers/company/login.php on line 35
+[17-Jan-2017 09:16:13 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/suraj008/public_html/pickmyoffers/company/coupans.php on line 7
+[17-Jan-2017 09:16:13 UTC] PHP Notice:  Undefined index: id in /home/suraj008/public_html/pickmyoffers/company/coupans.php on line 9
+[17-Jan-2017 09:16:13 UTC] PHP Notice:  Undefined index: CreateAt in /home/suraj008/public_html/pickmyoffers/company/coupans.php on line 74
+[17-Jan-2017 09:16:13 UTC] PHP Notice:  Undefined index: CreateAt in /home/suraj008/public_html/pickmyoffers/company/coupans.php on line 74
+[17-Jan-2017 09:16:13 UTC] PHP Notice:  Undefined index: CreateAt in /home/suraj008/public_html/pickmyoffers/company/coupans.php on line 74
+[17-Jan-2017 09:17:11 UTC] PHP Notice:  Undefined index: id in /home/suraj008/public_html/pickmyoffers/company/coupans.php on line 9
+[17-Jan-2017 09:17:47 UTC] PHP Notice:  Undefined index: id in /home/suraj008/public_html/pickmyoffers/company/coupans.php on line 9
+[17-Jan-2017 09:17:51 UTC] PHP Notice:  Undefined index: id in /home/suraj008/public_html/pickmyoffers/company/coupans.php on line 9
+[17-Jan-2017 09:18:06 UTC] PHP Notice:  Undefined index: id in /home/suraj008/public_html/pickmyoffers/company/coupans.php on line 9
+[17-Jan-2017 09:21:40 UTC] PHP Notice:  Undefined index: id in /home/suraj008/public_html/pickmyoffers/company/coupans.php on line 9
+[17-Jan-2017 09:44:30 UTC] PHP Notice:  Undefined index: CreateAt in /home/suraj008/public_html/pickmyoffers/company/coupans.php on line 74
+[17-Jan-2017 09:44:30 UTC] PHP Notice:  Undefined index: CreateAt in /home/suraj008/public_html/pickmyoffers/company/coupans.php on line 74
+[17-Jan-2017 09:44:30 UTC] PHP Notice:  Undefined index: CreateAt in /home/suraj008/public_html/pickmyoffers/company/coupans.php on line 74
+[17-Jan-2017 09:44:36 UTC] PHP Notice:  Undefined index: coupon_code in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 66
+[17-Jan-2017 09:44:36 UTC] PHP Notice:  Undefined index: coupan_code in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 73
+[17-Jan-2017 09:44:36 UTC] PHP Notice:  Undefined index: compny_link in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 75
+[17-Jan-2017 09:44:36 UTC] PHP Notice:  Undefined variable: company_name in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 127
+[17-Jan-2017 09:44:36 UTC] PHP Notice:  Undefined variable: img in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 136
+[17-Jan-2017 09:44:36 UTC] PHP Notice:  Undefined variable: coupon_code in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 156
+[17-Jan-2017 09:44:36 UTC] PHP Notice:  Undefined variable: coupon_link in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 165
+[17-Jan-2017 09:46:25 UTC] PHP Notice:  Undefined index: coupon_code in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 66
+[17-Jan-2017 09:46:25 UTC] PHP Notice:  Undefined index: coupan_code in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 73
+[17-Jan-2017 09:46:25 UTC] PHP Notice:  Undefined index: compny_link in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 75
+[17-Jan-2017 09:46:25 UTC] PHP Notice:  Undefined variable: company_name in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 127
+[17-Jan-2017 09:46:25 UTC] PHP Notice:  Undefined variable: img in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 136
+[17-Jan-2017 09:46:25 UTC] PHP Notice:  Undefined variable: coupon_code in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 156
+[17-Jan-2017 09:46:25 UTC] PHP Notice:  Undefined variable: coupon_link in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 165
+[17-Jan-2017 09:47:37 UTC] PHP Notice:  Undefined index: coupan_code in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 73
+[17-Jan-2017 09:47:37 UTC] PHP Notice:  Undefined index: compny_link in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 75
+[17-Jan-2017 09:47:37 UTC] PHP Notice:  Undefined variable: company_name in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 127
+[17-Jan-2017 09:47:37 UTC] PHP Notice:  Undefined variable: img in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 136
+[17-Jan-2017 09:47:37 UTC] PHP Notice:  Undefined variable: coupon_code in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 156
+[17-Jan-2017 09:47:37 UTC] PHP Notice:  Undefined variable: coupon_link in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 165
+[17-Jan-2017 09:49:02 UTC] PHP Notice:  Undefined index: compny_link in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 75
+[17-Jan-2017 09:49:02 UTC] PHP Notice:  Undefined index: compony_name in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 76
+[17-Jan-2017 09:49:02 UTC] PHP Notice:  Undefined variable: company_name in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 127
+[17-Jan-2017 09:49:02 UTC] PHP Notice:  Undefined variable: img in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 136
+[17-Jan-2017 09:49:02 UTC] PHP Notice:  Undefined variable: coupon_code in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 156
+[17-Jan-2017 09:49:02 UTC] PHP Notice:  Undefined variable: coupon_link in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 165
+[17-Jan-2017 09:51:13 UTC] PHP Notice:  Undefined index: compny_link in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 75
+[17-Jan-2017 09:51:13 UTC] PHP Notice:  Undefined index: compony_name in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 76
+[17-Jan-2017 09:51:13 UTC] PHP Notice:  Undefined variable: company_name in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 127
+[17-Jan-2017 09:51:13 UTC] PHP Notice:  Undefined variable: img in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 136
+[17-Jan-2017 09:51:13 UTC] PHP Notice:  Undefined variable: coupon_code in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 156
+[17-Jan-2017 09:51:13 UTC] PHP Notice:  Undefined variable: coupon_link in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 165
+[17-Jan-2017 09:51:29 UTC] PHP Notice:  Undefined index: compny_link in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 75
+[17-Jan-2017 09:51:29 UTC] PHP Notice:  Undefined index: compony_name in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 76
+[17-Jan-2017 09:51:29 UTC] PHP Notice:  Undefined variable: company_name in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 127
+[17-Jan-2017 09:51:29 UTC] PHP Notice:  Undefined variable: img in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 136
+[17-Jan-2017 09:51:29 UTC] PHP Notice:  Undefined variable: coupon_code in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 156
+[17-Jan-2017 09:51:29 UTC] PHP Notice:  Undefined variable: coupon_link in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 165
+[17-Jan-2017 09:51:57 UTC] PHP Notice:  Undefined index: compny_link in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 75
+[17-Jan-2017 09:51:57 UTC] PHP Notice:  Undefined variable: img in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 136
+[17-Jan-2017 09:51:57 UTC] PHP Notice:  Undefined variable: coupon_code in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 156
+[17-Jan-2017 09:51:57 UTC] PHP Notice:  Undefined variable: coupon_link in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 165
+[17-Jan-2017 09:59:56 UTC] PHP Notice:  Undefined index: expiredate in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 14
+[17-Jan-2017 09:59:56 UTC] PHP Notice:  Undefined variable: error in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 26
+[17-Jan-2017 10:04:10 UTC] PHP Notice:  Undefined variable: error in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 26
+[17-Jan-2017 10:05:46 UTC] PHP Notice:  Undefined variable: error in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 26
+[17-Jan-2017 10:06:12 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 30
+[17-Jan-2017 10:06:12 UTC] PHP Warning:  move_uploaded_file(/home/suraj008/public_html/pickmyoffers/company/companylogo/pic1484647572.jpg): failed to open stream: No such file or directory in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 40
+[17-Jan-2017 10:06:12 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpju5I7L' to '/home/suraj008/public_html/pickmyoffers/company/companylogo/pic1484647572.jpg' in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 40
+[17-Jan-2017 10:08:39 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 30
+[17-Jan-2017 10:08:39 UTC] PHP Warning:  move_uploaded_file(/home/suraj008/public_html/pickmyoffers/company/companylogo/pic1484647719.jpg): failed to open stream: No such file or directory in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 40
+[17-Jan-2017 10:08:39 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpfpx1Fy' to '/home/suraj008/public_html/pickmyoffers/company/companylogo/pic1484647719.jpg' in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 40
+[17-Jan-2017 10:11:07 UTC] PHP Notice:  Undefined variable: companylogo in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 50
+[17-Jan-2017 10:13:06 UTC] PHP Notice:  Undefined variable: companylogo in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 50
+[17-Jan-2017 10:14:02 UTC] PHP Notice:  Undefined index: CreateAt in /home/suraj008/public_html/pickmyoffers/company/coupans.php on line 74
+[17-Jan-2017 10:14:02 UTC] PHP Notice:  Undefined index: CreateAt in /home/suraj008/public_html/pickmyoffers/company/coupans.php on line 74
+[17-Jan-2017 10:14:02 UTC] PHP Notice:  Undefined index: CreateAt in /home/suraj008/public_html/pickmyoffers/company/coupans.php on line 74
+[17-Jan-2017 11:42:43 UTC] PHP Notice:  Undefined index: expiredate in /home/suraj008/public_html/pickmyoffers/company/insertcoupon.php on line 13
+[17-Jan-2017 11:42:43 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/suraj008/public_html/pickmyoffers/company/insertcoupon.php on line 29
+[17-Jan-2017 11:42:43 UTC] PHP Warning:  move_uploaded_file(/home/suraj008/public_html/pickmyoffers/company/companylogo/pic1484653363.jpg): failed to open stream: No such file or directory in /home/suraj008/public_html/pickmyoffers/company/insertcoupon.php on line 39
+[17-Jan-2017 11:42:43 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpPWCcjw' to '/home/suraj008/public_html/pickmyoffers/company/companylogo/pic1484653363.jpg' in /home/suraj008/public_html/pickmyoffers/company/insertcoupon.php on line 39
+[17-Jan-2017 11:51:46 UTC] PHP Notice:  Undefined index: expiredate in /home/suraj008/public_html/pickmyoffers/company/insertcoupon.php on line 13
+[17-Jan-2017 11:51:46 UTC] PHP Warning:  move_uploaded_file(./companylogo/36977-pic.jpg): failed to open stream: No such file or directory in /home/suraj008/public_html/pickmyoffers/company/insertcoupon.php on line 63
+[17-Jan-2017 11:51:46 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php7YpJOJ' to './companylogo/36977-pic.jpg' in /home/suraj008/public_html/pickmyoffers/company/insertcoupon.php on line 63
+[17-Jan-2017 11:51:46 UTC] PHP Notice:  Undefined variable: couponregistration in /home/suraj008/public_html/pickmyoffers/company/insertcoupon.php on line 68
+[17-Jan-2017 11:51:46 UTC] PHP Notice:  Undefined variable: couponregistration in /home/suraj008/public_html/pickmyoffers/company/insertcoupon.php on line 69
+[17-Jan-2017 11:55:22 UTC] PHP Notice:  Undefined index: expiredate in /home/suraj008/public_html/pickmyoffers/company/insertcoupon.php on line 13
+[17-Jan-2017 11:55:22 UTC] PHP Warning:  move_uploaded_file(./companylogo/65892-pic.jpg): failed to open stream: No such file or directory in /home/suraj008/public_html/pickmyoffers/company/insertcoupon.php on line 63
+[17-Jan-2017 11:55:22 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phprLzisr' to './companylogo/65892-pic.jpg' in /home/suraj008/public_html/pickmyoffers/company/insertcoupon.php on line 63
+[17-Jan-2017 11:55:22 UTC] PHP Notice:  Undefined variable: qry in /home/suraj008/public_html/pickmyoffers/company/insertcoupon.php on line 68
+[17-Jan-2017 11:55:22 UTC] PHP Notice:  Undefined variable: qry in /home/suraj008/public_html/pickmyoffers/company/insertcoupon.php on line 69
+[17-Jan-2017 12:08:46 UTC] PHP Notice:  Undefined index: expiredate in /home/suraj008/public_html/pickmyoffers/company/insertcoupon.php on line 13
+[17-Jan-2017 12:08:46 UTC] PHP Warning:  move_uploaded_file(./companylogo/46466-pic.jpg): failed to open stream: No such file or directory in /home/suraj008/public_html/pickmyoffers/company/insertcoupon.php on line 63
+[17-Jan-2017 12:08:46 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpsFvQvm' to './companylogo/46466-pic.jpg' in /home/suraj008/public_html/pickmyoffers/company/insertcoupon.php on line 63
+[17-Jan-2017 12:08:46 UTC] PHP Notice:  Undefined variable: qry in /home/suraj008/public_html/pickmyoffers/company/insertcoupon.php on line 68
+[17-Jan-2017 12:08:46 UTC] PHP Notice:  Undefined variable: qry in /home/suraj008/public_html/pickmyoffers/company/insertcoupon.php on line 69
+[17-Jan-2017 12:10:01 UTC] PHP Warning:  move_uploaded_file(./companylogo/12901-pic.jpg): failed to open stream: No such file or directory in /home/suraj008/public_html/pickmyoffers/company/insertcoupon.php on line 63
+[17-Jan-2017 12:10:01 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpinZ0JB' to './companylogo/12901-pic.jpg' in /home/suraj008/public_html/pickmyoffers/company/insertcoupon.php on line 63
+[17-Jan-2017 12:10:01 UTC] PHP Notice:  Undefined variable: qry in /home/suraj008/public_html/pickmyoffers/company/insertcoupon.php on line 68
+[17-Jan-2017 12:10:01 UTC] PHP Notice:  Undefined variable: qry in /home/suraj008/public_html/pickmyoffers/company/insertcoupon.php on line 69
+[18-Jan-2017 06:56:17 UTC] PHP Warning:  move_uploaded_file(./companylogo/1484722577-pic.jpg): failed to open stream: No such file or directory in /home/suraj008/public_html/pickmyoffers/company/insertcoupon.php on line 63
+[18-Jan-2017 06:56:17 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php4mBI86' to './companylogo/1484722577-pic.jpg' in /home/suraj008/public_html/pickmyoffers/company/insertcoupon.php on line 63
+[18-Jan-2017 06:56:17 UTC] PHP Notice:  Undefined variable: qry in /home/suraj008/public_html/pickmyoffers/company/insertcoupon.php on line 68
+[18-Jan-2017 06:56:17 UTC] PHP Notice:  Undefined variable: qry in /home/suraj008/public_html/pickmyoffers/company/insertcoupon.php on line 69
+[18-Jan-2017 06:58:10 UTC] PHP Warning:  move_uploaded_file(images/1484722690-pic.jpg): failed to open stream: No such file or directory in /home/suraj008/public_html/pickmyoffers/company/insertcoupon.php on line 63
+[18-Jan-2017 06:58:10 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpS3gcdO' to 'images/1484722690-pic.jpg' in /home/suraj008/public_html/pickmyoffers/company/insertcoupon.php on line 63
+[18-Jan-2017 06:58:10 UTC] PHP Notice:  Undefined variable: qry in /home/suraj008/public_html/pickmyoffers/company/insertcoupon.php on line 68
+[18-Jan-2017 06:58:10 UTC] PHP Notice:  Undefined variable: qry in /home/suraj008/public_html/pickmyoffers/company/insertcoupon.php on line 69
+[18-Jan-2017 06:59:01 UTC] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/suraj008/public_html/pickmyoffers/company/insertcoupon.php on line 67
+[18-Jan-2017 06:59:01 UTC] PHP Notice:  Undefined variable: companylogo in /home/suraj008/public_html/pickmyoffers/company/insertcoupon.php on line 67
+[18-Jan-2017 06:59:01 UTC] PHP Notice:  Undefined variable: expiredate in /home/suraj008/public_html/pickmyoffers/company/insertcoupon.php on line 67
+[18-Jan-2017 06:59:54 UTC] PHP Notice:  Undefined variable: companylogo in /home/suraj008/public_html/pickmyoffers/company/insertcoupon.php on line 67
+[18-Jan-2017 06:59:54 UTC] PHP Notice:  Undefined variable: expiredate in /home/suraj008/public_html/pickmyoffers/company/insertcoupon.php on line 67
+[18-Jan-2017 07:26:24 UTC] PHP Warning:  move_uploaded_file(pickmyoffers/companylogo/1484724384-pic.jpg): failed to open stream: No such file or directory in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 64
+[18-Jan-2017 07:26:24 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpTDBsSN' to 'pickmyoffers/companylogo/1484724384-pic.jpg' in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 64
+[18-Jan-2017 07:26:24 UTC] PHP Notice:  Undefined variable: qry in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 68
+[18-Jan-2017 07:26:24 UTC] PHP Notice:  Undefined variable: qry in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 69
+[18-Jan-2017 07:28:19 UTC] PHP Warning:  move_uploaded_file(pickmyoffers/companylogo/1484724499-pic.jpg): failed to open stream: No such file or directory in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 64
+[18-Jan-2017 07:28:19 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpYlDM2G' to 'pickmyoffers/companylogo/1484724499-pic.jpg' in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 64
+[18-Jan-2017 07:28:19 UTC] PHP Notice:  Undefined variable: qry in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 68
+[18-Jan-2017 07:28:19 UTC] PHP Notice:  Undefined variable: qry in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 69
+[18-Jan-2017 08:24:40 UTC] PHP Notice:  Undefined index: id in /home/suraj008/public_html/pickmyoffers/company/edit_profile.php on line 8
+[18-Jan-2017 08:24:40 UTC] PHP Notice:  Undefined variable: name in /home/suraj008/public_html/pickmyoffers/company/edit_profile.php on line 64
+[18-Jan-2017 08:24:40 UTC] PHP Notice:  Undefined variable: name1 in /home/suraj008/public_html/pickmyoffers/company/edit_profile.php on line 74
+[18-Jan-2017 08:24:40 UTC] PHP Notice:  Undefined variable: email in /home/suraj008/public_html/pickmyoffers/company/edit_profile.php on line 86
+[18-Jan-2017 08:24:40 UTC] PHP Notice:  Undefined variable: contact in /home/suraj008/public_html/pickmyoffers/company/edit_profile.php on line 97
+[18-Jan-2017 08:27:23 UTC] PHP Notice:  Undefined variable: id in /home/suraj008/public_html/pickmyoffers/company/edit_profile.php on line 10
+[20-Jan-2017 17:23:28 UTC] PHP Notice:  Undefined index: fname in /home/suraj008/public_html/pickmyoffers/company/header.php on line 162
+[20-Jan-2017 17:24:41 UTC] PHP Notice:  Undefined index: fname in /home/suraj008/public_html/pickmyoffers/company/header.php on line 162
+[20-Jan-2017 17:25:19 UTC] PHP Notice:  Undefined index: fname in /home/suraj008/public_html/pickmyoffers/company/header.php on line 162
+[20-Jan-2017 17:38:16 UTC] PHP Notice:  Undefined index: fname in /home/suraj008/public_html/pickmyoffers/company/header.php on line 162
+[20-Jan-2017 17:38:16 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 5
+[20-Jan-2017 17:38:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/suraj008/public_html/pickmyoffers/company/header.php:38) in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 9
+[20-Jan-2017 17:38:37 UTC] PHP Notice:  Undefined index: fname in /home/suraj008/public_html/pickmyoffers/company/header.php on line 162
+[20-Jan-2017 17:38:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 5
+[20-Jan-2017 17:38:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/suraj008/public_html/pickmyoffers/company/header.php:38) in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 9
+[20-Jan-2017 17:38:37 UTC] PHP Notice:  Undefined variable: qry in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 74
+[20-Jan-2017 17:38:37 UTC] PHP Notice:  Undefined variable: qry in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 75
+[20-Jan-2017 17:39:42 UTC] PHP Notice:  Undefined index: fname in /home/suraj008/public_html/pickmyoffers/company/header.php on line 162
+[20-Jan-2017 17:39:42 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 5
+[20-Jan-2017 17:39:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/suraj008/public_html/pickmyoffers/company/header.php:38) in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 9
+[20-Jan-2017 17:39:42 UTC] PHP Notice:  Undefined variable: qry in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 74
+[20-Jan-2017 17:39:42 UTC] PHP Notice:  Undefined variable: qry in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 75
+[20-Jan-2017 17:41:21 UTC] PHP Notice:  Undefined index: fname in /home/suraj008/public_html/pickmyoffers/company/header.php on line 162
+[20-Jan-2017 17:42:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 5
+[20-Jan-2017 17:42:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 5
+[20-Jan-2017 17:42:31 UTC] PHP Notice:  Undefined variable: qry in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 74
+[20-Jan-2017 17:42:31 UTC] PHP Notice:  Undefined variable: qry in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 75
+[20-Jan-2017 17:44:49 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 5
+[20-Jan-2017 17:44:49 UTC] PHP Notice:  Undefined variable: qry in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 74
+[20-Jan-2017 17:44:49 UTC] PHP Notice:  Undefined variable: qry in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 75
+[20-Jan-2017 17:45:10 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 5
+[20-Jan-2017 17:45:10 UTC] PHP Notice:  Undefined variable: qry in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 74
+[20-Jan-2017 17:45:10 UTC] PHP Notice:  Undefined variable: qry in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 75
+[20-Jan-2017 17:45:17 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 5
+[20-Jan-2017 17:45:17 UTC] PHP Notice:  Undefined variable: qry in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 74
+[20-Jan-2017 17:45:17 UTC] PHP Notice:  Undefined variable: qry in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 75
+[20-Jan-2017 17:45:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 5
+[20-Jan-2017 17:45:21 UTC] PHP Notice:  Undefined variable: qry in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 74
+[20-Jan-2017 17:45:21 UTC] PHP Notice:  Undefined variable: qry in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 75
+[20-Jan-2017 17:45:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 5
+[20-Jan-2017 17:45:32 UTC] PHP Notice:  Undefined variable: qry in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 74
+[20-Jan-2017 17:45:32 UTC] PHP Notice:  Undefined variable: qry in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 75
+[20-Jan-2017 17:46:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 5
+[20-Jan-2017 17:46:06 UTC] PHP Notice:  Undefined variable: qry in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 74
+[20-Jan-2017 17:46:06 UTC] PHP Notice:  Undefined variable: qry in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 75
+[20-Jan-2017 17:51:59 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 5
+[20-Jan-2017 17:51:59 UTC] PHP Notice:  Undefined variable: qry in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 74
+[20-Jan-2017 17:51:59 UTC] PHP Notice:  Undefined variable: qry in /home/suraj008/public_html/pickmyoffers/company/edit_coupon.php on line 75
